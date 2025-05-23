@@ -25,3 +25,6 @@ go.work.sum
 .env
 
 trackinfo.txt
+
+# the jetbrains settings folder
+.idea
